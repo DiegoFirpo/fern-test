@@ -1,7 +1,7 @@
 instances:
-  - url: your-organization.docs.buildwithfern.com
+  - url: diego-firpo.docs.buildwithfern.com
 
-title: Your Organization | Docs
+title: Diego | Docs
 
 navigation:
   - section: Getting started
